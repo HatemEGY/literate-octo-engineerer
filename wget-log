@@ -1,0 +1,32 @@
+--2017-01-24 16:47:16--  http://ionicframework.com/
+Resolving ionicframework.com (ionicframework.com)... 104.25.123.99, 104.25.124.99, 2400:cb00:2048:1::6819:7c63, ...
+Connecting to ionicframework.com (ionicframework.com)|104.25.123.99|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘ionicframework.com/index.html’
+
+     0K .......... .......... .....                            55.9K=0.5s
+
+2017-01-24 16:47:18 (55.9 KB/s) - ‘ionicframework.com/index.html’ saved [26377]
+
+Loading robots.txt; please ignore errors.
+--2017-01-24 16:47:18--  http://ionicframework.com/robots.txt
+Reusing existing connection to ionicframework.com:80.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-24 16:47:21 ERROR 404: Not Found.
+
+Loading robots.txt; please ignore errors.
+--2017-01-24 16:47:21--  https://ionicframework.com/robots.txt
+Connecting to ionicframework.com (ionicframework.com)|104.25.123.99|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2017-01-24 16:47:22 ERROR 404: Not Found.
+
+--2017-01-24 16:47:22--  http://ionicframework.com/css/styles.min.css?v=2d9ea54c18e9395b507560d915a3cfa6
+Connecting to ionicframework.com (ionicframework.com)|104.25.123.99|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/css]
+Saving to: ‘ionicframework.com/css/styles.min.css?v=2d9ea54c18e9395b507560d915a3cfa6’
+
+     0K .......... .......... .......... .......... .......... 49.9K
+    50K .......... .......... .......... .......... .......... 9.63K
+   100K .......... ........
